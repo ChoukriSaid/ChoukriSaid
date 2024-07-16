@@ -1,4 +1,4 @@
-# Bonjour, je suis Choukri Said 👋
+# Bonjour, je suis Said 👋
 
 ## À propos de moi
 
