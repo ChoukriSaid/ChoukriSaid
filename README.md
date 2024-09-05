@@ -2,7 +2,7 @@
 
 ## À propos de moi
 
-Je suis un Data Scientist passionné par la modélisation prédictive, l'analyse de données et le machine learning. Avec une solide expérience en développement et en optimisation de modèles, je suis dédié à transformer des données complexes en insights précieux et exploitables.
+Analyste Junior en Data et Business Intelligence, avec une expertise en analyse de données, modélisation prédictive et création de tableaux de bord interactifs à l'aide de PowerBI, Tableau, Python et SQL. Capable de manipuler et transformer des données complexes en insights exploitables pour optimiser les processus décisionnels et soutenir les stratégies d'entreprise. Passionné par l'amélioration des performances grâce à des solutions de Business Intelligence et d'analyse avancée.
 
 ## 🛠 Compétences Techniques
 
