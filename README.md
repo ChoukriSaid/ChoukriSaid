@@ -153,7 +153,7 @@ Analyste Junior en Data et Business Intelligence, avec une expertise en analyse 
 - Simulation de portefeuilles réussie, permettant de visualiser la frontière efficiente et d'améliorer les prises de décision en matière d'investissement.
 - Tableaux de bord interactifs pour visualiser les données de manière dynamique, facilitant la gestion de portefeuille.
 
-**Système de Détection de Fraude dans les Banques**
+## **Système de Détection de Fraude dans les Banques**
 
 - **Contexte** : Projet académique dans le cadre du Master en Informatique.
 - **Objectifs** : Développer un système de détection de fraude pour les transactions bancaires.
