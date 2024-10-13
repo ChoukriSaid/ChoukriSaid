@@ -108,6 +108,8 @@ Analyste Junior en Data et Business Intelligence, avec une expertise en analyse 
 
 - **Contexte** : Mission dans une entreprise spécialisée dans le recrutement, visant à améliorer la gestion des ressources humaines.
 - **Objectifs** : Utiliser des techniques de machine learning pour prédire les besoins en personnel, tout en automatisant les processus analytiques à travers des tableaux de bord interactifs.
+
+  
 **Environnement Technique** :
 - Langages de programmation : Python, SQL
 - Bibliothèques : pandas, numpy, scikit-learn
