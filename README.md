@@ -130,7 +130,7 @@ Analyste Junior en Data et Business Intelligence, avec une expertise en analyse 
 
 ### 💼 Projets Académiques
 
-**Optimisation de Portefeuille Boursier avec Python**
+## **Optimisation de Portefeuille Boursier avec Python**
 
 **Contexte** : Projet personnel visant à développer un portefeuille optimisé grâce à des techniques d'analyse de données financières avancées.
 
