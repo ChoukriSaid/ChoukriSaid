@@ -129,9 +129,12 @@ Analyste Junior en Data et Business Intelligence, avec une expertise en analyse 
 - Adoption des visualisations dynamiques par les responsables RH pour des décisions plus rapides et plus efficaces.
 
 ### 💼 Projets Académiques
+
 **Optimisation de Portefeuille Boursier avec Python**
+
 **Contexte** : Projet personnel visant à développer un portefeuille optimisé grâce à des techniques d'analyse de données financières avancées.
 **Objectifs** : Maximiser le rendement tout en minimisant le risque à l'aide de la Théorie Moderne du Portefeuille (MPT).
+
 **Environnement Technique :**
 - Langages de programmation : Python (pandas, yfinance, matplotlib, seaborn)
 - API : yfinance
