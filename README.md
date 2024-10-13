@@ -106,9 +106,8 @@ Analyste Junior en Data et Business Intelligence, avec une expertise en analyse 
 ### 📈 Supplay
 **Stage en Analyse de Données et Machine Learning**
 
-- **Contexte** : Mission dans une entreprise de ressources humaines spécialisée dans le recrutement.
-- **Objectifs** : Utiliser des techniques de machine learning pour prédire les besoins en personnel et améliorer l'efficacité des bases de données.
-
+- **Contexte** : Mission dans une entreprise spécialisée dans le recrutement, visant à améliorer la gestion des ressources humaines.
+- **Objectifs** : Utiliser des techniques de machine learning pour prédire les besoins en personnel, tout en automatisant les processus analytiques à travers des tableaux de bord interactifs.
 **Environnement Technique** :
 - Langages de programmation : Python, SQL
 - Bibliothèques : pandas, numpy, scikit-learn
@@ -116,18 +115,38 @@ Analyste Junior en Data et Business Intelligence, avec une expertise en analyse 
 - Technologies cloud : AWS RedShift, AWS SageMaker
 
 **Réalisations** :
-- Gestion de bases de données sur AWS RedShift pour une analyse efficace.
-- Nettoyage et transformation des données brutes.
-- Conception de modèles de machine learning pour prédire les besoins en personnel.
-- Analyse statistique pour détecter des tendances dans les données de recrutement.
-- Création de rapports dynamiques pour les responsables RH avec PowerBI.
+- Gestion et optimisation des bases de données sur AWS Redshift pour une analyse rapide et efficace des données.
+- Nettoyage et transformation des données brutes via Python pour garantir des analyses précises.
+- Conception d'algorithmes de machine learning (régression et classification) pour prédire les besoins en personnel.
+- Analyse statistique pour détecter les tendances dans les données de recrutement, facilitant ainsi la prise de décisions stratégiques.
+- Création de tableaux de bord interactifs et dynamiques avec Power BI pour des rapports visuels clairs à destination des responsables RH.
 
 **Résultats** :
-- Amélioration de la précision des prédictions de besoins en personnel de 25%.
-- Réduction du temps de traitement des données de 30%.
-- Adoption des visualisations pour les décisions stratégiques, augmentant l'efficacité.
+- Amélioration de la précision des prédictions de besoins en personnel de 25%, optimisant ainsi la planification des ressources.
+- Réduction du temps de traitement des données de 30% grâce à l'automatisation des processus analytiques.
+- Adoption des visualisations dynamiques par les responsables RH pour des décisions plus rapides et plus efficaces.
 
-### 💼 Projet Académique
+### 💼 Projets Académiques
+**Optimisation de Portefeuille Boursier avec Python**
+**Contexte** : Projet personnel visant à développer un portefeuille optimisé grâce à des techniques d'analyse de données financières avancées.
+**Objectifs** : Maximiser le rendement tout en minimisant le risque à l'aide de la Théorie Moderne du Portefeuille (MPT).
+**Environnement Technique :**
+- Langages de programmation : Python (pandas, yfinance, matplotlib, seaborn)
+- API : yfinance
+- Outils de modélisation : modélisation statistique, optimisation de portefeuille
+- 
+**Réalisations :**
+- Collecte et analyse de données financières via yfinance pour plusieurs entreprises afin d'optimiser le rendement tout en minimisant le risque.
+- Création de tableaux de bord visuels pour suivre les tendances des prix, les rendements, et la volatilité.
+- Simulation de portefeuilles pour tracer la frontière efficiente et maximiser le ratio de Sharpe.
+- Utilisation d'une approche quantitative pour l’allocation optimale des actifs dans le portefeuille.
+
+  
+**Résultats :**
+- Optimisation du rendement tout en minimisant le risque grâce à une analyse approfondie des données financières.
+- Simulation de portefeuilles réussie, permettant de visualiser la frontière efficiente et d'améliorer les prises de décision en matière d'investissement.
+- Tableaux de bord interactifs pour visualiser les données de manière dynamique, facilitant la gestion de portefeuille.
+
 **Système de Détection de Fraude dans les Banques**
 
 - **Contexte** : Projet académique dans le cadre du Master en Informatique.
