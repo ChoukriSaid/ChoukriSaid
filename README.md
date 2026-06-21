@@ -41,7 +41,6 @@ Agent autonome qui ingère des données de marché en temps réel via API (~61s)
 ## 🛠 Stack
 
 **Langages** — Python · SQL · DAX · R
-
 **BI & Viz** — Power BI · Power Query · Tableau · Qlik · Matplotlib · Plotly
 **Data Engineering** — Apache Airflow · Talend · ETL · DuckDB · PostgreSQL · MySQL · MongoDB
 **Cloud** — Azure (Data Factory) · AWS (Redshift, SageMaker, S3)
